@@ -1,0 +1,117 @@
+/Slide1.sld
+/pactGFP.tif
+/Thumbs.db
+/panel.tif
+/@eaDir/Thumbs.db@SynoEAStream
+/jake/D.sim stage 14 __ maybe gonads.tif
+/jake/Capture 7.tif
+/jake/D.sim stage 16 male.tif
+/jake/Thumbs.db
+/jake/D. Yak Stage 15 Female_.tif
+/jake/D.sim male_ .tif
+/jake/D. Yak Stage 15 Male_.tif
+/jake/D. ere male_ stage 16.tif
+/jake/Capture 8.tif
+/jake/Capture 4.tif
+/jake/@eaDir/Thumbs.db@SynoEAStream
+/Amanda (examples)/L1m-l(male)no stat restictrion w fusomes.tif
+/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.tiff
+/Amanda (examples)/L1m-l(male)stat resticted w fusomes.tif
+/Amanda (examples)/L1m-l(male)no stat restictrion.tif
+/Amanda (examples)/L1m-l(male)stat restricted w fusomes #2.tif
+/Amanda (examples)/L1m-l(male)no stat restictrion w fusomes(z-proj).tif
+/Amanda (examples)/Thumbs.db
+/Amanda (examples)/L1m-l(male)stat resticted w fusomes(z-proj).tif
+/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C2.tiff
+/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C3.tiff
+/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C1.tiff
+/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.log
+/Amanda (examples)/@eaDir/Thumbs.db@SynoEAStream
+/Doug/mgm1WT_vial2.sld
+/Doug/mgm1WT_vial1.sld
+/Doug/mgm1WT_vial1_testes1.tif
+/Doug/mgm1WT_vial1_testes2.tif
+/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.tiff
+/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C2.tiff
+/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C3.tiff
+/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C1.tiff
+/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.log
+/Tigist/Gretchen&Tigist/OvoD2xsnf148 analysis/7-10d/Expermental/K2.sld
+/Tigist/Gretchen&Tigist/OvoD2xsnf148 analysis/7-10d/Expermental/I1.sld
+/Tigist/Gretchen&Tigist/OvoD2xsnf148 analysis/7-10d/Expermental/Spool_Capture_Profile.txt
+/Tigist/presentation out put/snf1from14to17d013.tif
+/Tigist/presentation out put/ovod2fm3orsnf1control.tif
+/Tigist/presentation out put/Snf1.tif
+/Tigist/presentation out put/Thumbs.db
+/Tigist/presentation out put/snf1from14to17d012.tif
+/Tigist/presentation out put/otu15to17.tif
+/Tigist/presentation out put/Snf1closeup.tif
+/Tigist/presentation out put/@eaDir/Thumbs.db@SynoEAStream
+/Tigist/tigist test/snf1movie.mov
+/Tigist/tigist test/1008.tif
+/Tigist/tigist test/F1 series pictures snf148.tif
+/Tigist/tigist test/QT-07c0-c6975b59-12f068-00
+/Tigist/tigist test/1002.tif
+/Tigist/tigist test/1007.tif
+/Tigist/tigist test/movie1.mov
+/Tigist/tigist test/Snf1.tif
+/Tigist/tigist test/1001.tif
+/Tigist/tigist test/Thumbs.db
+/Tigist/tigist test/1006.tif
+/Tigist/tigist test/1009.tif
+/Tigist/tigist test/1005.tif
+/Tigist/tigist test/3.mov
+/Tigist/tigist test/1003.tif
+/Tigist/tigist test/1.tif
+/Tigist/tigist test/2.tif
+/Tigist/tigist test/1004.tif
+/Tigist/tigist test/1000.tif
+/Tigist/tigist test/@eaDir/Thumbs.db@SynoEAStream
+/Tigist/tigist test/New Folder/Ovary 1 10x.tif
+/Tigist/tigist test/New Folder/Ovariole 2 40x .tif
+/Tigist/tigist test/New Folder/Thumbs.db
+/Tigist/tigist test/New Folder/Ovariole 1 20x.tif
+/Tigist/tigist test/New Folder/ovariole 3 20x.tif
+/Tigist/tigist test/New Folder/Ovary 1 Top ovariole tip 20x.tif
+/Tigist/tigist test/New Folder/@eaDir/Thumbs.db@SynoEAStream
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain001.tif
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain003.tif
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain005.tif
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain002.tif
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain004.tif
+/Tigist/tigist test/New Folder/New Folder/Thumbs.db
+/Tigist/tigist test/New Folder/New Folder/color.TIF
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain006.tif
+/Tigist/tigist test/New Folder/New Folder/just the needed one.TIF
+/Tigist/tigist test/New Folder/New Folder/Normal experimental stain000.tif
+/Tigist/tigist test/New Folder/New Folder/stain doesn't work.tif
+/Tigist/tigist test/New Folder/New Folder/Spool_Capture_Profile.txt
+/Tigist/tigist test/New Folder/New Folder/@eaDir/Thumbs.db@SynoEAStream
+/Tigist/tigist test/fall 2009 pics/E2000.tif
+/Tigist/tigist test/fall 2009 pics/F1stat2002.tif
+/Tigist/tigist test/fall 2009 pics/Thumbs.db
+/Tigist/tigist test/fall 2009 pics/E2002.tif
+/Tigist/tigist test/fall 2009 pics/E2001.tif
+/Tigist/tigist test/fall 2009 pics/F1stat2003.tif
+/Tigist/tigist test/fall 2009 pics/E1 pic.tif
+/Tigist/tigist test/fall 2009 pics/F1stat2001.tif
+/Tigist/tigist test/fall 2009 pics/F1stat2000.tif
+/Tigist/tigist test/fall 2009 pics/@eaDir/Thumbs.db@SynoEAStream
+/Tigist/tigist test/Pics for grant/ovod2fm3orsnf1controlchannels.tif
+/Tigist/tigist test/Pics for grant/snf148 channels.tif
+/Tigist/tigist test/Pics for grant/snf148.tif
+/Tigist/tigist test/Pics for grant/ovod2fm3orsnf1control.tif
+/Tigist/tigist test/Pics for grant/Snf1.tif
+/Tigist/tigist test/Pics for grant/Thumbs.db
+/Tigist/tigist test/Pics for grant/2Snf148 channels.tif
+/Tigist/tigist test/Pics for grant/snf1 channels.tif
+/Tigist/tigist test/Pics for grant/2Snf148.tif
+/Tigist/tigist test/Pics for grant/@eaDir/Thumbs.db@SynoEAStream
+/Tigist/tigist test/Actual presentation pictures/otu1 stat expression.tif
+/Tigist/tigist test/Actual presentation pictures/snf148 controls 14to17.tif
+/Tigist/tigist test/Actual presentation pictures/snf control 7to10d.tif
+/Tigist/tigist test/Actual presentation pictures/Thumbs.db
+/Tigist/tigist test/Actual presentation pictures/snf148 movie exp 14to17d.mov
+/Tigist/tigist test/Actual presentation pictures/ovom1 stat.tif
+/Tigist/tigist test/Actual presentation pictures/snf148 movie exp 7to10.mov
+/Tigist/tigist test/Actual presentation pictures/@eaDir/Thumbs.db@SynoEAStream

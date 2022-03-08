@@ -1,0 +1,117 @@
+/Slide1.sld
+/pactGFP.tif
+/Thumbs.db
+/panel.tif
+/jake/D.sim stage 14 __ maybe gonads.tif
+/jake/Capture 7.tif
+/jake/D.sim stage 16 male.tif
+/jake/Thumbs.db
+/jake/D. Yak Stage 15 Female_.tif
+/jake/D.sim male_ .tif
+/jake/D. Yak Stage 15 Male_.tif
+/jake/D. ere male_ stage 16.tif
+/jake/Capture 8.tif
+/jake/Capture 4.tif
+/jake/@eaDir/Thumbs.db@SynoEAStream
+/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.tiff
+/Wawersik Lab/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C2.tiff
+/Wawersik Lab/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C3.tiff
+/Wawersik Lab/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C1.tiff
+/Wawersik Lab/Tigist/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.log
+/Wawersik Lab/Tigist/Gretchen&Tigist/OvoD2xsnf148 analysis/7-10d/Expermental/K2.sld
+/Wawersik Lab/Tigist/Gretchen&Tigist/OvoD2xsnf148 analysis/7-10d/Expermental/I1.sld
+/Wawersik Lab/Tigist/Gretchen&Tigist/OvoD2xsnf148 analysis/7-10d/Expermental/Spool_Capture_Profile.txt
+/Wawersik Lab/Tigist/presentation out put/snf1from14to17d013.tif
+/Wawersik Lab/Tigist/presentation out put/ovod2fm3orsnf1control.tif
+/Wawersik Lab/Tigist/presentation out put/Snf1.tif
+/Wawersik Lab/Tigist/presentation out put/Thumbs.db
+/Wawersik Lab/Tigist/presentation out put/snf1from14to17d012.tif
+/Wawersik Lab/Tigist/presentation out put/otu15to17.tif
+/Wawersik Lab/Tigist/presentation out put/Snf1closeup.tif
+/Wawersik Lab/Tigist/presentation out put/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/tigist test/snf1movie.mov
+/Wawersik Lab/Tigist/tigist test/1008.tif
+/Wawersik Lab/Tigist/tigist test/F1 series pictures snf148.tif
+/Wawersik Lab/Tigist/tigist test/QT-07c0-c6975b59-12f068-00
+/Wawersik Lab/Tigist/tigist test/1002.tif
+/Wawersik Lab/Tigist/tigist test/1007.tif
+/Wawersik Lab/Tigist/tigist test/movie1.mov
+/Wawersik Lab/Tigist/tigist test/Snf1.tif
+/Wawersik Lab/Tigist/tigist test/1001.tif
+/Wawersik Lab/Tigist/tigist test/Thumbs.db
+/Wawersik Lab/Tigist/tigist test/1006.tif
+/Wawersik Lab/Tigist/tigist test/1009.tif
+/Wawersik Lab/Tigist/tigist test/1005.tif
+/Wawersik Lab/Tigist/tigist test/3.mov
+/Wawersik Lab/Tigist/tigist test/1003.tif
+/Wawersik Lab/Tigist/tigist test/1.tif
+/Wawersik Lab/Tigist/tigist test/2.tif
+/Wawersik Lab/Tigist/tigist test/1004.tif
+/Wawersik Lab/Tigist/tigist test/1000.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/Ovary 1 10x.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/Ovariole 2 40x .tif
+/Wawersik Lab/Tigist/tigist test/New Folder/Thumbs.db
+/Wawersik Lab/Tigist/tigist test/New Folder/Ovariole 1 20x.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/ovariole 3 20x.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/Ovary 1 Top ovariole tip 20x.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain001.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain003.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain005.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain002.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain004.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Thumbs.db
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/color.TIF
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain006.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/just the needed one.TIF
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Normal experimental stain000.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/stain doesn't work.tif
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/Spool_Capture_Profile.txt
+/Wawersik Lab/Tigist/tigist test/New Folder/New Folder/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/tigist test/New Folder/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/E2000.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/F1stat2002.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/Thumbs.db
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/E2002.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/E2001.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/F1stat2003.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/E1 pic.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/F1stat2001.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/F1stat2000.tif
+/Wawersik Lab/Tigist/tigist test/fall 2009 pics/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/tigist test/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/tigist test/Pics for grant/ovod2fm3orsnf1controlchannels.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/snf148 channels.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/snf148.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/ovod2fm3orsnf1control.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/Snf1.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/Thumbs.db
+/Wawersik Lab/Tigist/tigist test/Pics for grant/2Snf148 channels.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/snf1 channels.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/2Snf148.tif
+/Wawersik Lab/Tigist/tigist test/Pics for grant/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/otu1 stat expression.tif
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/snf148 controls 14to17.tif
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/snf control 7to10d.tif
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/Thumbs.db
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/snf148 movie exp 14to17d.mov
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/ovom1 stat.tif
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/snf148 movie exp 7to10.mov
+/Wawersik Lab/Tigist/tigist test/Actual presentation pictures/@eaDir/Thumbs.db@SynoEAStream
+/Wawersik Lab/Doug/mgm1WT_vial2.sld
+/Wawersik Lab/Doug/mgm1WT_vial1.sld
+/Wawersik Lab/Doug/mgm1WT_vial1_testes1.tif
+/Wawersik Lab/Doug/mgm1WT_vial1_testes2.tif
+/Wawersik Lab/Amanda (examples)/L1m-l(male)no stat restictrion w fusomes.tif
+/Wawersik Lab/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.tiff
+/Wawersik Lab/Amanda (examples)/L1m-l(male)stat resticted w fusomes.tif
+/Wawersik Lab/Amanda (examples)/L1m-l(male)no stat restictrion.tif
+/Wawersik Lab/Amanda (examples)/L1m-l(male)stat restricted w fusomes #2.tif
+/Wawersik Lab/Amanda (examples)/L1m-l(male)no stat restictrion w fusomes(z-proj).tif
+/Wawersik Lab/Amanda (examples)/Thumbs.db
+/Wawersik Lab/Amanda (examples)/L1m-l(male)stat resticted w fusomes(z-proj).tif
+/Wawersik Lab/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C2.tiff
+/Wawersik Lab/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C3.tiff
+/Wawersik Lab/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C1.tiff
+/Wawersik Lab/Amanda (examples)/Wildtype GFP Stain_XY1371652626_Z00_T0_C0.log
+/Wawersik Lab/Amanda (examples)/@eaDir/Thumbs.db@SynoEAStream
